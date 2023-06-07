@@ -2,63 +2,61 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Coresthetics
+email: support@coresthetics.app
+description: "Workout from your phone or Android TV. Bodyweight or equipment workouts, you choose. Put yourself at the core of your fitness goals with personalised training to maintain or pursue a healthy lifestyle. Take out the guesswork, prioritise consistency over perfection with the Coresthetics app."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Kurt M
   pic: 1
-  position: Lead Designer
+  position: CEO, Founder
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: Instagram
+      url: instagram.com/ckurtm_00
+    - title: Facebook
+      url: facebook.com/ckurtm
+    - title: Github
+      url: github.com/ckurtm
 
-- name: Larry Parker
+- name: Lungelo N
   pic: 2
-  position: Lead Marketer
+  position: Senior developer
   social:
-    - title: twitter
-      url: #
+    - title: instgram
+      url: https://www.instagram.com/lungelo.ncube/
     - title: facebook
-      url: #
+      url: https://www.facebook.com/lungelo.ncube1
     - title: linkedin
-      url: #
+      url: linkedin.com/in/lungelo-ncube-40a74b106/
 
-- name: Diana Petersen
+- name: Manatsa M
   pic: 3
-  position: Lead Developer
+  position: Intern
   social:
-    - title: twitter
-      url: #
+    - title: Instagram
+      url: https://www.instagram.com/a_yute_named_bankai/
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/manatsa.mbanje.33/
+    - title: Linkedin
+      url: https://www.linkedin.com/in/manatsa-mbanje-ab9808243/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/coresthetics
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/profile.php?id=100065510768762
+  - title: instagram
+    url: https://www.instagram.com/coresthetics.app/
+  - title: linkedin
+    url: https://www.linkedin.com/company/coresthetics/
 
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Randburg Joburg Gauteng South Africa
 
 # Build settings
 markdown: kramdown
